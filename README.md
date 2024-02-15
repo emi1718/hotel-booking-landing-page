@@ -1,18 +1,30 @@
-Hotel Booking Website Landing Page
-This repository contains the landing page source code for a modern and user-friendly hotel booking website. The landing page is designed to attract potential customers and provide them with an overview of the hotel's features, services, and offerings.
+# Hotel Booking Website Landing Page
 
-Overview
-The hotel booking website landing page serves as the gateway for visitors to explore the hotel's amenities, room options, pricing, and special offers. With its intuitive design and seamless user experience, the landing page aims to captivate visitors and encourage them to make reservations.
+Welcome to the repository for our hotel booking website's landing page! This landing page serves as the first point of contact for potential guests, providing them with a glimpse of our hotel's features, amenities, and offerings.
 
-Features
-Visually Appealing Design: The landing page features an elegant and visually appealing design that showcases the hotel's ambiance and offerings.
-Responsive Layout: The layout of the landing page is optimized to provide a consistent and engaging experience across various devices and screen sizes.
-Easy Navigation: Visitors can easily navigate through different sections of the landing page to explore rooms, amenities, and special packages.
-Room Booking Integration: Integration with a booking system allows visitors to check room availability, view pricing, and make reservations directly from the landing page.
-Promotional Offers: The landing page highlights special promotions, discounts, and seasonal offers to attract potential guests.
-Contact and Support: Visitors can easily find contact information and support details for inquiries, assistance, or booking-related questions.
-Technologies Used
-HTML5: Markup language for structuring the content of the landing page.
-CSS3: Styling language used to enhance the visual presentation and layout of the landing page.
-JavaScript: Programming language used to add interactivity and dynamic behavior to the landing page.
-Font Awesome: Icon toolkit used to incorporate scalable vector icons into the landing page.
+## Overview
+
+Our hotel booking website landing page is designed to provide visitors with a visually appealing and informative experience. With its sleek design and user-friendly layout, we aim to capture the attention of our audience and entice them to explore our hotel further.
+
+## Features
+
+- **Attractive Design**: Our landing page features an attractive and modern design that reflects the elegance and comfort of our hotel.
+- **Responsive Layout**: The layout of our landing page is fully responsive, ensuring a seamless experience across devices of all sizes.
+- **Clear Call-to-Action**: We provide clear and prominent calls-to-action to encourage visitors to explore our room options and make bookings.
+- **Featured Amenities**: Highlighted amenities and services showcase the unique offerings of our hotel, enticing visitors to learn more.
+- **Booking Widget Integration**: Seamless integration with our booking widget allows visitors to check availability and make reservations directly from the landing page.
+- **Contact Information**: We provide easy access to our contact information, making it simple for visitors to reach out with inquiries or booking requests.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Font Awesome
+
+## Getting Started
+
+To view our hotel booking website landing page:
+
+
