@@ -25,6 +25,6 @@ Our hotel booking website landing page is designed to provide visitors with a vi
 
 ## Getting Started
 
-To view our hotel booking website landing page:
+To view our hotel booking website landing page:  https://emi1718.github.io/hotel-booking-landing-page/
 
 
